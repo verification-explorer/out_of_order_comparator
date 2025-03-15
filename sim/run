@@ -1,0 +1,1 @@
+xrun -uvmhome CDNS-1.2 -f file.f $*
